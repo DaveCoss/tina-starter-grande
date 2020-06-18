@@ -3,15 +3,15 @@
   "path": "/contact",
   "blocks": [
     {
+      "content": "For an immediate pick up please call 0800 22 62 69 (0800 22 MANY). You can email us any questions you may have or even make a booking ahead of time. \n\n# ",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
       "_template": "TitleBlock",
       "title": "",
       "underline": true,
       "content": ""
-    },
-    {
-      "content": "For an immediate pick up please call 0800 22 62 69 (0800 22 MANY). You can email us any questions you may have or even make a booking ahead of time. \n\n# ",
-      "center": false,
-      "_template": "ContentBlock"
     },
     {
       "_template": "FormBlock",
@@ -38,6 +38,11 @@
       ],
       "content": "",
       "recipient": "cossack001@gmail.com"
+    },
+    {
+      "content": "# \n\nPlease provide any  such as:-\n\n1. if you are dropping off friends or colleagues on the way to your final destination\n2. contact phone number to reach your party in case of not being able to locate your venue\n3. Vehicle details – make, colour and/or registration plate\n4. Informing you if we are running behind schedule",
+      "center": false,
+      "_template": "ContentBlock"
     }
   ],
   "displayTitle": true
