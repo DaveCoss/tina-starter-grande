@@ -23,8 +23,8 @@
   },
   "hero": {
     "image": "../images/cafe.jpg",
-    "large": true,
-    "overlay": false,
+    "large": false,
+    "overlay": true,
     "overlap": "8rem",
     "parallax": true
   },
