@@ -9,6 +9,11 @@
       "content": ""
     },
     {
+      "content": "For an immediate pick up please call 0800 22 62 69 (0800 22 MANY). You can email us any questions you may have or even make a booking ahead of time. \n\n# ",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
       "_template": "FormBlock",
       "name": "Contact Form",
       "fields": [
