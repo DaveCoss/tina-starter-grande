@@ -11,13 +11,13 @@
     "textline": "Who's gonna drive you home...tonight?",
     "ctas": [
       {
-        "label": "Blog",
-        "link": "/blog",
+        "label": "Prices",
+        "link": "/about",
         "primary": true,
-        "arrow": true
+        "arrow": false
       },
       {
-        "label": "Contact Us",
+        "label": "Book Now",
         "link": "/contact",
         "arrow": false,
         "primary": false
