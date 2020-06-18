@@ -2,32 +2,8 @@
   "path": "/",
   "blocks": [
     {
-      "image": "../images/undefined",
-      "_template": "ImageBlock",
-      "content": ""
-    },
-    {
-      "title": "",
-      "center": false,
-      "underline": true,
-      "_template": "TitleBlock",
-      "content": ""
-    },
-    {
-      "name": "Form",
-      "recipient": "",
-      "fields": [],
-      "_template": "FormBlock",
-      "content": ""
-    },
-    {
       "_template": "ContentBlock",
       "content": "> Responsible drinkers don’t drive…we all know this, but you may find yourself in an unanticipated social event where you are drinking, yet you have your car with you. What can you do? Take a taxi and collect your car the next day? What a waste of time and money…simply call North Shore’s Dial a Driver and a professional and experienced driver will come and drive you home in your own car.\n\n# Our Service\n\n**Coverage**\n\nOur service operates on the North Shore, Whangaporoa, West Auckland and central city. We will collect you anywhere in the greater Auckland area and return you home to the shore or take you from the shore to any destination in the greater Auckland area. We are based on the NORTH SHORE.\n\n**Daytime service**\n\nWe can pick up from car auctions, day surgeries, hospitals & private clinics, schools or places of work due to illness or an accident on site.\n\nIf it is possible to pre book for a medical appointment in order to allow us to collect you, that is always the best approach – it allows us to be available when your ready to go home.\n\nOtherwise we will are able to help but you will need to be patient as we will be a little longer than usual to get to your address to collect you.\n\nThe prices are competitive, and far cheaper than getting a taxi both ways to your party or social event.\n\n|  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n\n## **Operating Hours**\n\n* We are open 7 Days a week 364 days a year\n* EXCLUDING Christmas day we are CLOSED for ONE day ONLY.\n* Weekend hours are 11am – 3am Friday & Saturday nights. Later if required or booked.\n* Weekdays vary but generally open till midnight up to 1.30am Monday – Thursday evenings again dependant on calls or bookings we may have.\n\n1. Vim remis\n2. Non haerebat teneas raptaturque marito huius\n3. Nomen carinas placato mora deprensi umbras\n4. Iole utque quoque\n5. Aedibus totumque timuere senex Argentea corpore Et tanti ficti _non_ removente lenimen _Crete vestigia_ in deus, Olenios velut. Agna fulget, gratia habitant fonti pignus. Cura modo sacra petatur non adligat placebant sic discubuere tamen caelestibus pendebat."
-    },
-    {
-      "content": "",
-      "center": false,
-      "_template": "ContentBlock"
     }
   ],
   "hero": {
