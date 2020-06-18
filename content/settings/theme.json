@@ -23,8 +23,8 @@
   },
   "hero": {
     "image": "../images/cafe.jpg",
-    "large": false,
-    "overlay": true,
+    "large": true,
+    "overlay": false,
     "overlap": "8rem",
     "parallax": true
   },
@@ -32,6 +32,6 @@
     "uppercaseH2": false
   },
   "menu": {
-    "style": "glow"
+    "style": "pill"
   }
 }
