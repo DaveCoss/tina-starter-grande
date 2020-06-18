@@ -6,9 +6,15 @@ type: post
 authors:
   - scott-byrne
 draft: true
+hero:
+  image: ../images/undefined
 ---
-
 ## Arma dent suarum
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
 
 Lorem markdownum, tenet. Haec est cruore contra? Illo qui indutus secutus
 coniuge alebat tibi, mei iussit, excipit; vina. Est **mentisque**. Libys se quod
