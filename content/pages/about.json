@@ -1,5 +1,5 @@
 {
-  "title": "About",
+  "title": "Prices",
   "path": "/about",
   "blocks": [
     {
@@ -9,7 +9,7 @@
       "content": ""
     },
     {
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Expressa vero in iis aetatibus, quae iam confirmatae sunt. At, si voluptas esset ato, physicum se voluit.\n\n```javascript\n\nfunction fizzBuzz(length, markers){\n    \tvar output;\n    \tfor(var i=1;i<=length;i++){\n    \t\toutput = '';\n    \t\tvar number;\n    \t\tvar term;\n    \t\tfor(var j=0;j<markers.length;j++){\n    \t\t\tnumber = markers[j].number;\n    \t\t\tterm = markers[j].term;\n    \t\t\tif(i%number === 0){\n    \t\t\t\toutput+=term;\n    \t\t\t}\n    \t\t}\n    \t\tif(output === '') {\n    \t\t\toutput+=i;\n    \t\t}\n    \t\tprint(output);\n    \t}\n    }\n```\n\nHonesta oratio, Socratica, Platonis etiam. Ergo illi intellegunt quid Epicurus dicat, ego non intellego? Maximas vero virtutes iacere omnis necesse est voluptate dominante. At multis malis affectus. Non minor, inquit, voluptas percipitur ex vilissimis rebus quam ex pretiosissimis. Bonum integritas corporis: misera debilitas.\n\n> Perspicuum est enim, nisi aequitas, fides, iustitia proficiscantur a natura, et si omnia haec ad utilitatem referantur, virum bonum non posse reperiri;",
+      "content": "Our current minimum rates are $35 standard charge rate or $30 discounted cash rate for the first 5 (five) kilometres.\n\n> Up to 5km - $35 standard or $30 cash\n>\n> Up to 7km - $41 standard or $35 cash\n>\n> Up to 9km - $47 standard or $40 cash\n>\n> Up to 11km - $53 standard or $50 cash\n>\n> Up to 13km - $59 standard or $55 cash\n>\n> Over 13km - Standard Rates\n\nWe may charge $1.00 per minute waiting time, but give you 5 minutes free in order to say goodbye and leave your function.\n\nWe accept VISA, MASTERCARD, DINERS CLUB and TAXI CHARGE OR CHITS.\n\nWe do not have any EFTPOS facilities, but are happy to stop along the route at a ATM.\n\nWe do take advance bookings but require a credit card to hold the booking space. Should you cancel the booking within 1 (ONE) hour of booking time we will charge a standard cancellation fee.",
       "_template": "ContentBlock"
     }
   ],
