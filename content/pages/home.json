@@ -7,11 +7,11 @@
     }
   ],
   "hero": {
-    "headline": "Finance Liberation",
-    "textline": "This template is filled with sample content to get you started.",
+    "headline": "North Shore Dial a Driver",
+    "textline": "Who's gonna drive you home...tonight?",
     "ctas": [
       {
-        "label": "Read The Blog",
+        "label": "Blog",
         "link": "/blog",
         "primary": true,
         "arrow": true
@@ -23,7 +23,7 @@
         "primary": false
       }
     ],
-    "image": "../images/cafe-2.jpg",
+    "image": "../images/undefined",
     "large": true
   },
   "displayTitle": false,
